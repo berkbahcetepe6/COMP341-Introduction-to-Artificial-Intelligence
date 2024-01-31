@@ -17,11 +17,11 @@ and Markov decision processes with examples from vision, robotics, language, and
 5. Understand sources of uncertainty, representing uncertainty and decision making under
 uncertainty
 
-# **Search**
-In this homework for 'COMP341 - Introduction to Artificial Intelligence,' I successfully implemented and tested key search algorithms — Depth-First Search, Breadth-First Search, Uniform-Cost Search, A* Search, and various problem-specific strategies — within the Pacman game framework, demonstrating efficient pathfinding and problem-solving capabilities in complex environments.
+# Assignment 1 - Search
+I successfully implemented and tested key search algorithms — Depth-First Search, Breadth-First Search, Uniform-Cost Search, A* Search, and various problem-specific strategies — within the Pacman game framework, demonstrating efficient pathfinding and problem-solving capabilities in complex environments.
 
-# **MultiAgent**
+# Assignment 2 - Multiagent
 In my second homework for 'COMP341 - Introduction to Artificial Intelligence,' I enhanced a Pacman Reflex Agent, implemented Minimax and Alpha-Beta Pruning algorithms for adversarial search, developed an Expectimax Agent for probabilistic scenarios, and designed a sophisticated evaluation function. This work involved optimizing Pacman's decision-making in various complex game environments, demonstrating advanced concepts in AI and game theory.
 
-# **Ghostbuster**
+# Assignment 3 - Ghostbuster
 In my third homework for 'COMP341 - Introduction to Artificial Intelligence,' I developed a range of algorithms for probabilistic inference and tracking in a dynamic environment, using the Pacman game as a testbed. This involved enhancing a reflex agent, implementing various search strategies including Minimax, Alpha-Beta Pruning, and Expectimax, and constructing complex particle filters for joint distribution tracking, all of which culminated in a comprehensive exploration of AI techniques for decision making and inference in uncertain environments.
