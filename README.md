@@ -16,3 +16,6 @@ and Markov decision processes with examples from vision, robotics, language, and
 4. Know the basic concepts of Machine Learning (ML) and how it relates to AI
 5. Understand sources of uncertainty, representing uncertainty and decision making under
 uncertainty
+
+**Search**
+In this homework for 'COMP341 - Introduction to Artificial Intelligence,' I successfully implemented and tested key search algorithms — Depth-First Search, Breadth-First Search, Uniform-Cost Search, A* Search, and various problem-specific strategies — within the Pacman game framework, demonstrating efficient pathfinding and problem-solving capabilities in complex environments.
